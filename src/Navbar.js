@@ -10,7 +10,7 @@ function Navbar(props) {
         const isTop = window.scrollY > 750;
         if (isTop !== isnavTop) {
             setisnavTop(!isnavTop)
-            console.log(isnavTop)
+            
         }
       });}
     }, [window.scrollY])
