@@ -1,0 +1,9 @@
+.sva-img:hover{
+    transform: scale(1.2);
+}
+.zoomer{
+    overflow:hidden;
+}
+.sva-img{
+    transition: transform 1s;
+}
