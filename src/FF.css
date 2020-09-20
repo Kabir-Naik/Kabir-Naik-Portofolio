@@ -7,3 +7,12 @@
 .sva-img{
     transition: transform 1s;
 }
+.card{
+    width:18rem
+}
+@media only screen and (max-width: 600px) {
+    .card{
+        width:14rem;
+    }
+}
+
