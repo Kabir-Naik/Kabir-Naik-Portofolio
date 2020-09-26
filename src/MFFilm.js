@@ -10,7 +10,7 @@ function MFFilm() {
                    <a href="https://www.youtube.com/c/KabirNaik/about"> <img src={JMT} class="img-fluid sva-img" width="250"/></a>
                 </div>
                 <div class="col-12 py-5 col-md-4 col-xl-4 zoomer">
-                <a href=""><img src={JMT} class="img-fluid sva-img"  width="250"/></a>
+                <a href="https://www.youtube.com/c/KabirNaik/about"><img src={JMT} class="img-fluid sva-img"  width="250"/></a>
                 </div>
                 <div class="col-12 py-5 col-md-4 col-xl-4 zoomer">
                 <a href=""><img src={JMT} class="img-fluid sva-img"  width="250"/></a>
