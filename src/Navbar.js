@@ -19,7 +19,7 @@ function Navbar(props) {
     const navcol = isnavTop ? "white" : "black" 
     const navitemcol = isnavTop ? "black" : "white"   
     return (
-<nav class="navbar navbar-expand-lg px-1 px-lg-5 py-2 sticky-top" style={{backgroundColor:navcol,color:"white",transition:'0.2s'}}>
+<nav class="navbar navbar-expand-lg px-0 px-lg-5 py-2 sticky-top" style={{backgroundColor:navcol,color:"white",transition:'0.2s'}}>
     <div class="container-fluid px-5">
     <a class="navbar-brand" style={{color:navitemcol}} href="#">Kabir Naik</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
