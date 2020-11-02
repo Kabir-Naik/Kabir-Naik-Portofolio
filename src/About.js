@@ -30,13 +30,13 @@ function About() {
             <div class="container py-5">
                 <div class="row pt-5">
                     <div class="col-12 col-md-4 col-xl-4  pt-5">
-                       <a href=""> <img src={ka1} class="img-fluid" width="350"/></a>
+                       <img src={ka1} class="img-fluid" width="350"/>
                     </div>
                     <div class="col-12 col-md-4 col-xl-4  pt-5">
-                       <a href="" ><img src={ka3} class="img-fluid" width="350"/></a>
+                       <img src={ka3} class="img-fluid" width="350"/>
                     </div>
                     <div class="col-12 col-md-4 col-xl-4  pt-5">
-                       <a href=""><img src={ka2} class="img-fluid" width="350"/></a>
+                      <img src={ka2} class="img-fluid" width="350"/>
                     </div>
                 </div>
             </div>

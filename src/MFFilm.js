@@ -1,5 +1,5 @@
 import React from 'react'
-import JMT from './Images/JMT.png'
+
 import "./FF.css"
 function MFFilm(props) {
     return (
