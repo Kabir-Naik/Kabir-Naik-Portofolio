@@ -3,18 +3,17 @@ import "./FF.css"
 function FeatureFilm() {
     return (
         <div class="container py-5">
-            <h1 style={{fontSize:"3rem"}} class="my-5">SCHOOL OF VISUAL ARTS</h1>
-            <h4 style={{fontWeight:"350"}} class="my-5">As of Fall of 2019, I am enrolled at the School of Visual Arts in New York. Any content I create or projects I produce that I view worthy of posting can be found here.</h4>
+            <h1 style={{fontSize:"3rem"}} class="my-5">ABOUT ME</h1>
+            <h4 style={{fontWeight:"350"}} class="my-5">I am just a curious kid trying to understand and document the world. I love telling stories which matter to me through films and music.</h4>
 
             <div class="row justify-content-center">
-                <div class="col-10 col-md-10 col-xl-5">
-            <div class="zoomer">
-            <a href="https://www.youtube.com/watch?v=nw5jQvU6izI"><img src="https://i.ytimg.com/vi/nw5jQvU6izI/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCCpJ1HhwbjJrNzZvxepmBiu9Z6oA" class="img-fluid sva-img" width="500" /></a>
+                <div class="col-12 col-md-12 col-xl-12">
+            <div class="d-flex justify-content-center" style={{width:"1000"}}>
+            <iframe width="853px" height="480px" src="https://www.youtube.com/embed/d34uqa8qAHE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
             </div>
             </div>
-            <h3 class="mt-5" style={{fontWeight:"400"}}>FRESHMAN YEAR (2019-2020)</h3>
-            <h4 style={{fontWeight:"500"}} class="mt-4">Primarily foundation projects to learn fundamental film theory and technique</h4>
+            
         </div>
     )
 }

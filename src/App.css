@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+.ico{
+  font-size:2rem;
+  color: black;
+  transition: 0.2s;
+}
+.ico:hover{
+  color: #ff0505;
+}
