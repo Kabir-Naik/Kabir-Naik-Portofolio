@@ -25,7 +25,7 @@ function Footer() {
                         <Link to="/" style={{textDecoration:"none"}}><h6 class="mt-4 mx-5" style={{fontWeight:"100",color:"white",marginTop:"0px"}}>Home</h6></Link>
                         <Link to="/work" style={{textDecoration:"none"}}><h6 class="mx-5" style={{fontWeight:"100",color:"white",marginTop:"0px"}}>Work</h6></Link>
                         <Link to="/testimonials" style={{textDecoration:"none"}}><h6 class="mx-5" style={{fontWeight:"100",color:"white",marginTop:"0px"}}>Testimonials</h6></Link>
-                        <Link to="/about" style={{textDecoration:"none"}}><h6 class="m-5" style={{fontWeight:"100",color:"white",marginTop:"0px"}}>About</h6></Link>
+                        <Link to="/about" style={{textDecoration:"none"}}><h6 class="mx-5" style={{fontWeight:"100",color:"white",marginTop:"0px"}}>About</h6></Link>
                         </div>
                         </div>
                     </div>
