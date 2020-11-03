@@ -16,8 +16,8 @@ function Navbar(props) {
     }, [window.scrollY])
   
 
-    const navcol = isnavTop ? "white" : "black" 
-    const navitemcol = isnavTop ? "black" : "white"   
+    const navcol = isnavTop ? "black" : "white" 
+    const navitemcol = isnavTop ? "white" : "black"   
     return (
 <nav class="navbar navbar-expand-lg px-0 px-lg-5 py-2 sticky-top" style={{backgroundColor:navcol,color:"white",transition:'0.2s'}}>
     <div class="container-fluid px-5">
