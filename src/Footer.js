@@ -7,7 +7,7 @@ function Footer() {
                 <div class='col-12 col-md-6 col-xl-6 py-3'>
                     <div style={{textAlign:"start"}}>
                     <h3 class="mx-5" style={{color:"white"}}>Kabir Naik</h3>
-                    <p class="mx-5 mt-4" style={{fontWeight:"100",color:"white"}}>Enjoy , Explore , Create</p>
+                    <p class="mx-5 mt-4" style={{fontWeight:"100",color:"white"}}>I tell Stories</p>
                     </div>
                 </div>
                 <div class='col-12 col-md-6 col-xl-6'>
@@ -16,6 +16,7 @@ function Footer() {
                         <div style={{textAlign:"start"}}>                            
                         <h5 class="mx-5"style={{color:"white"}}>Follow</h5>
                         <a href="https://www.youtube.com/c/KabirNaik/" style={{textDecoration:"none"}}><h6 class="mt-4 mx-5" style={{fontWeight:"100",color:"white",marginTop:"0px"}}>YouTube</h6></a>
+                        <a href="https://www.instagram.com/thekabirnaik/?hl=en" style={{textDecoration:"none"}}><h6 class="mx-5" style={{fontWeight:"100",color:"white",marginTop:"0px"}}>Instagram</h6></a>
                         <a href="https://twitter.com/thekabirnaik" style={{textDecoration:"none"}}><h6 class="mx-5" style={{fontWeight:"100",color:"white",marginTop:"0px"}}>Twitter</h6></a>
                         </div>
                         </div>

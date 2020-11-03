@@ -12,7 +12,7 @@ import pao from "./Images/LIFE_OF_PAO.png";
 function Home() {
     return (
         <div>
-            <Navbar pc={false}/>
+            <Navbar pc={true}/>
             <Header />
             <FeatureFilm />
             <Carousel />

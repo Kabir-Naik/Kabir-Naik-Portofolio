@@ -12,18 +12,16 @@ import pao from "./Images/LIFE_OF_PAO.png";
 function About() {
     return (
         <div>
-            <Navbar pc={false} />
+            <Navbar pc={true} />
             <div style={{backgroundColor:"black"}} class="container-fluid py-3">
-            <div class="py-0 py-xl-5 py-md-5">
+            <div class="py-0 py-xl-5 py-md-5 container">
                 <div class="row d-flex align-items-center py-5">
-                    <div class="col-12 col-xl-6 col-md-6 py-5">
+                    <div class="col-12 col-xl-12 col-md-12 py-5">
                         <div class="display-1" style={{color:"white",fontWeight:200}}>About</div>
                         <hr style={{color:"white" ,margin:50}} />
-                        <div class="h5"style={{color:"white",fontWeight:"50"}}>Through my vision, commitment, innovation and creativity I intend to leave a distinct footprint in the realm of non-fiction productions. I aspire to create powerful and qualitative illustrations for the global audience through inspiration, challenge and ingenuity as we know it and take it a notch further to make it more enjoyable for folks from all walks of life.</div>
+                        <div class="h4"style={{color:"white",fontWeight:"50"}}>Through my vision, commitment, innovation and creativity I intend to leave a distinct footprint in the realm of non-fiction productions. I aspire to create powerful and qualitative illustrations for the global audience through inspiration, challenge and ingenuity as we know it and take it a notch further to make it more enjoyable for folks from all walks of life.</div>
                     </div>
-                    <div class="col-12  col-xl-6 col-md-6 py-5">
-                        <img src={logo} class="img-fluid" width="300"/>
-                    </div>
+                   
                 </div>
             </div>
             </div>
