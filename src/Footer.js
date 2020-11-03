@@ -7,7 +7,7 @@ function Footer() {
                 <div class='col-12 col-md-6 col-xl-6 py-3'>
                     <div style={{textAlign:"start"}}>
                     <h3 class="mx-5" style={{color:"white"}}>Kabir Naik</h3>
-                    <p class="mx-5 mt-4" style={{fontWeight:"100",color:"white"}}>I tell Stories</p>
+                    <p class="mx-5 mt-4" style={{fontWeight:"100",color:"white"}}>I tell stories</p>
                     </div>
                 </div>
                 <div class='col-12 col-md-6 col-xl-6'>

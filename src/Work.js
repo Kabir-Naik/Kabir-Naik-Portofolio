@@ -1,6 +1,5 @@
 import React from 'react'
 import Navbar from './Navbar'
-import vd from './Images/CAMERA.JPG'
 import Footer from './Footer'
 import MFFilm from './MFFilm'
 import WorkItems from './WorkItems'

@@ -1,7 +1,6 @@
 import React from 'react'
 import Footer from './Footer'
 import Navbar from './Navbar'
-import logo from "./Images/logo.png"
 import ka1 from "./Images/ka1.jpg"
 import ka2 from "./Images/ka2.jpg"
 import ka3 from "./Images/ka3.JPG"
@@ -28,13 +27,13 @@ function About() {
             <div class="container py-5">
                 <div class="row pt-5">
                     <div class="col-12 col-md-4 col-xl-4  pt-5">
-                       <img src={ka1} class="img-fluid" width="350"/>
+                       <img src={ka1} class="img-fluid" width="350px"/>
                     </div>
                     <div class="col-12 col-md-4 col-xl-4  pt-5">
-                       <img src={ka3} class="img-fluid" width="350"/>
+                       <img src={ka3} class="img-fluid" width="350px"/>
                     </div>
                     <div class="col-12 col-md-4 col-xl-4  pt-5">
-                      <img src={ka2} class="img-fluid" width="350"/>
+                      <img src={ka2} class="img-fluid" width="350px"/>
                     </div>
                 </div>
             </div>
