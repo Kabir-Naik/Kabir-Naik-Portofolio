@@ -16,7 +16,6 @@ function Testimonials() {
         <div>
         <div class="container-fluid">
             <Navbar pc={true}/>
-            <h1 style={{fontSize:"3rem"}}>Our clients <i class="fas fa-heart" style={{color:"rgb(232,69,69)"}}></i> our services </h1>
             <div class="container">
                 <div class="row my-5">
                     <div class="col py-2">

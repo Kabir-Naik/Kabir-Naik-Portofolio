@@ -9,7 +9,7 @@ function Header() {
                     <div class="col-12 col-xl-6 col-md-6 py-5">
                         <div class="display-1" style={{color:"white",fontWeight:200}}>KABIR NAIK</div>
                         <hr style={{color:"white" ,margin:50}} />
-                        <div class="h2"style={{color:"white",fontWeight:"50"}}>I’m a documentary film maker based in Goa</div>
+                        <div class="h2"style={{color:"white",fontWeight:"50"}}>Documentary film maker based in Goa</div>
                     </div>
                     <div class="col-12  col-xl-6 col-md-6 py-5">
                         <img src={kni} class="img-fluid" style={{borderRadius:"10rem"}} width="300px"  />
