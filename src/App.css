@@ -42,7 +42,7 @@ body{
 .ico{
   font-size:2rem;
   color: white;
-  transition: 0.2s;
+  transition: 0.6s;
 }
 .ico:hover{
   color: #ff0505;
