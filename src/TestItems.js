@@ -11,12 +11,14 @@ function TestItems(props) {
                 </div>
                 </div>
                 <div class="card-body">
-                    <p class="card-text" style={{color:"black"}}>{props.ctext}</p>
+                    <p class="card-text text-left" style={{color:"black"}}>{props.ctext}</p>
                 </div>
                 <div class="card-footer text-muted">
                     {props.person}
                 </div>
+                
             </div>
+          
         </div>
     )
 }
