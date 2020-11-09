@@ -18,11 +18,10 @@ function Work() {
         <Navbar pc={false} />
         <div class="container-fluid py-5 workdiv" style={{backgroundColor:"white",color:"black"}} >
             <div class="py-0 py-xl-5 py-md-5">
-                <div class="row d-flex align-items-center py-5">
-                    <div class="col-12 col-xl-12 col-md-12 py-5">
-                        <div class="display-1" style={{fontWeight:200}}>Some of my <strong>Work</strong></div>
-                        <hr style={{margin:50}} />
-                        <div class="h2"style={{fontWeight:"50"}}>Capturing The Human Experience</div>
+                <div class="row d-flex align-items-center py-2">
+                    <div class="col-12 col-xl-12 col-md-12 py-4">
+                        <div class="display-6" style={{fontWeight:200}}>Capturing The Human Experience</div>
+                        
                     </div>
                     
                 </div>
