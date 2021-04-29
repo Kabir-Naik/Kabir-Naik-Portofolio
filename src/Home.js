@@ -7,7 +7,7 @@ import MFFilm from './MFFilm';
 import Navbar from './Navbar';
 import mid from "./Images/MINING_DILEMMA.png";
 import rend from "./Images/RENDER.png";
-import pao from "./Images/LIFE_OF_PAO.png";
+import kaju from "./Images/POSTER 3.png";
 
 function Home() {
     return (
@@ -16,7 +16,7 @@ function Home() {
             <Header />
             <FeatureFilm />
             <Carousel />
-            <MFFilm img1={mid} img2={rend} img3={pao} link1={'https://youtu.be/mJChoEvx-mc'} link2={'https://youtu.be/qe8cant_b64'} link3={'https://youtu.be/rZcWl7ajSRQ'}/>
+            <MFFilm img1={kaju} img2={mid} img3={rend} link1={'https://youtu.be/X9go1PyPSog'} link2={'https://youtu.be/mJChoEvx-mc'} link3={'https://youtu.be/qe8cant_b64'} />
             <Footer />
         </div>
     )

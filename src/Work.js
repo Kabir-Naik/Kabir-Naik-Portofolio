@@ -3,13 +3,13 @@ import Navbar from './Navbar'
 import Footer from './Footer'
 import MFFilm from './MFFilm'
 import WorkItems from './WorkItems'
-import wp1 from './Images/WPOSTER1.png'
+import wp1 from './Images/WNPOSTER1.PNG'
 import wp2 from './Images/WPOSTER2.png'
-import wp3 from './Images/WPOSTER3.png'
+import wp3 from './Images/WNPOSTER3.PNG'
 import wp4 from './Images/WPOSTER4.png'
 import wp5 from './Images/WPOSTER5.jpg'
-import varve from './Images/varve.png'
-import ajanta from './Images/AJANTA.png'
+import lop from './Images/LIFE_OF_PAO.png'
+import tms from './Images/THE_MILK_STORY.png'
 import af2020 from './Images/ASSAM_FLOODS_2020.png'
 function Work() {
     return (
@@ -28,13 +28,13 @@ function Work() {
             </div>
             </div>
             <h1 class="py-5">DOCUMENTARIES</h1>
-            <WorkItems link={'https://www.youtube.com/watch?v=FpjrQWV2ur0'} image={wp1} title="FARMING WOES" text="There is a general concern in Goa over increasing number of people specially youth turning their back to farming. As more and more fields are kept fellow, our dependence on agriculture produce from outside is increasing day by day. It is not the apathy towards farming always the reason for people to shun this age old practice. Many a times, like in this case, farmers are forced to abandon their fields due to external forces like natural calamity and vermin menace. In this situations, the government agencies can play a very crucial role in compensating the farmers for their losses adequately and promptly so that farmers are not forced to give up farming out of frustration and helplessness."/>
+            <WorkItems link={'https://www.youtube.com/watch?v=hfsveSuirmI'} image={wp1} title="GOA'S CANE ARTISANS" text="Cane and Bamboo have a very close and old relationship with mankind. Cane and bamboo craft is believed to be the oldest creation of man and is considered to be the oldest craft which was initiated in Goa region. These craftsmen mainly made cane items which were of use to fishermen during catching of fish and also fabricated a Dalli in which they could store the dry grains and other food items."/>
             <WorkItems link={'https://www.youtube.com/watch?v=mJChoEvx-mc&t=370s'} image={wp2} title="MINING DILEMMA" text="Mining activity has finally resumed in Goa's mining belt bringing much needed relief to thousands who are dependent on this activity. However, this environmentally destructive activity needs to be regulated to avoid past mistakes and it's smooth sailing. Need based & not greed based mining should be the mantra."/>
-            <WorkItems link={'https://www.youtube.com/watch?v=EW_dqLHfgWY'} image={wp3} title="THE SNAKE RESCUER" text="There so many people all around the world doing so many things without seeing the profit, just wanting to help out. This film is about one such person who must have saved the lives of hundreds of animals. He is now giving food to street animals during the lockdown, do help him out on his endeavor."/>
+            <WorkItems link={'https://www.youtube.com/watch?v=EW_dqLHfgWY'} image={wp3} title="KAJUGOTTO" text=" Kajugotto is a totally self reliant village, hardly dependent on the outside world for any of its basic requirements.The nearest motorable road to Kajugotto is over 3 Km away.The nearest high school is 3.5 Km away. Children walk for nearly three hours (to and fro) everyday to reach the high school."/>
             <WorkItems link={'https://www.youtube.com/watch?v=4IlNkCspmKs'} image={wp4} title="TRAIL OF DESTRUCTION" text="We are at a critical crossroads in our world today. We are the first generation on our planet to truly understand the far-reaching impacts that human actions are having on our environment, and yet, we are the last generation that can truly make the biggest impact in solving these challenges. The development of the country is implied by the construction of many large projects like building large scale dams, bridges and nationwide highways."/>
             <WorkItems link={'https://www.youtube.com/watch?v=qe8cant_b64'} image={wp5} title="RENDER : GOA'S DYING OCCUPATION" text="Toddy tapping is the collection of juice from the bud or spadix of palm tree flowers - has been practised in Southeast Asia for centuries. British explorer Captain Jatoddy distillerymes Cook found the islanders of Sawut in the Indonesian archipelago, tapping toddy from palm trees in 1770, and using it as a drink and an animal feed. This profession is not attracting the younger generation due to huge risk to life involved in this profession and poor returns."/>
 
-            <MFFilm img1={varve} img2={ajanta} img3={af2020} link1={'https://youtu.be/PsdA9LUOK5c'} link2={'https://youtu.be/6k_JSNXGi1o'} link3={'https://youtu.be/tyASwdp2VZI '}/>
+            <MFFilm img1={lop} img2={tms} img3={af2020} link1={'https://youtu.be/rZcWl7ajSRQ'} link2={'https://youtu.be/3ojMSu00Fuk'} link3={'https://youtu.be/tyASwdp2VZI '}/>
             </div>
             <Footer />
         </div>

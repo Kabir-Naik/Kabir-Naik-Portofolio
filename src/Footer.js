@@ -32,7 +32,7 @@ function Footer() {
                     </div>
                 </div>
            </div>
-           <h6 style={{fontWeight:"100",color:"white"}}>Copyright © 2020 Kabir Naik. All rights reserved.</h6>
+           <h6 style={{fontWeight:"100",color:"white"}}>Copyright © 2021 Kabir Naik. All rights reserved.</h6>
            <br />
         </div>
     )
