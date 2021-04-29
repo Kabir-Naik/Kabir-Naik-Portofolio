@@ -7,7 +7,7 @@ function Navbar(props) {
     useEffect(() => {
       if(props.pc === false){
       document.addEventListener('scroll', () => {
-        const isTop = window.scrollY > 650;
+        const isTop = window.scrollY > 350;
         if (isTop !== isnavTop) {
             setisnavTop(!isnavTop)
             
