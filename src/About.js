@@ -39,7 +39,7 @@ function About() {
             </div>
             <h1>Why Documentaries ?</h1>
             <div class="mx-0 mx-md-5 mx-xl-5">
-            <p class="mx-5">Documentaries are a very important part of who I am. I can’t claim to be storyteller if I can’t seek the magic in the mundane and the living history behind stone. Ever wondered why someone would rescue snakes for no sort of money at all or what it really takes to create just one glass of toddy? These are the questions that keep me up at night, and more often than not, I find my answers in people. Wonderful, strange, passionate and incredible people. And I am irresistibly drawn to telling their stories the only way I know how. Through my lens.</p>    
+            <p class="mx-5">Documentaries are a very important part of who I am. I can’t claim to be a storyteller if I can’t seek the magic in the mundane and the living history behind stone. Ever wondered why someone would rescue snakes for no money at all or what it really takes to create just one glass of toddy? These are the questions that keep me up at night, and more often than not, I find my answers in people. Wonderful, strange, passionate and incredible people. And I am irresistibly drawn to telling their stories the only way I know how. Through my lens.</p>    
             </div>
             <br />
             <a href="mailto:thekabirnaik@gmail.com"><i class="fas ico fa-envelope px-3"></i></a>
