@@ -11,6 +11,8 @@ import wp5 from './Images/WPOSTER5.jpg'
 import lop from './Images/LIFE_OF_PAO.png'
 import tms from './Images/THE_MILK_STORY.png'
 import af2020 from './Images/ASSAM_FLOODS_2020.png'
+import bhui from './Images/Bhuiput.png'
+import elg from './Images/elg.png'
 function Work() {
     return (
         <div>
@@ -28,6 +30,8 @@ function Work() {
             </div>
             </div>
             <h1 class="py-5">DOCUMENTARIES</h1>
+            <WorkItems link={'https://www.youtube.com/watch?v=7WaPSOuPY-E'} image={bhui} title="भुंयपुत | DOCUMENTARY" text="The story of a 100-year-old farmer who has withstood the tempests of time.In this global age wherein people pursue materialistic goals, one man dares to question this paradigm. Simplicity being the arrow of his spirit took him on the meandering path of life, where today he stands at a crossroad seeing farms around him being abandoned & modern generations not nurturing the legacy he sowed. He fears these farms will vanish with the passage of time which takes him further away from the clutches of modern society.'Bhuiput' covers the story of an inspiring man who dedicated the entirety of his life to the reins of his land"/>
+            <WorkItems link={'https://www.youtube.com/watch?v=h-InAtg0gz4&t=525s'} image={elg} title="THE E-LEARNING GAP" text="Since the beginning of 2020, the dreaded Covid-19 pandemic has taken the world by storm and has brought forth countless challenges in each and every sphere of life. The education system was no exception. The Education System in Goa has been grappling with the challenges since the past year and a half. The closing of every school in the state was thought to be a temporary measure in the initial phases, but soon became a part of everyday life with the massive surge of Covid-19 cases. With no other options left, the education system jumped onto the E-Learning bandwagon. "/>
             <WorkItems link={'https://www.youtube.com/watch?v=hfsveSuirmI'} image={wp1} title="GOA'S CANE ARTISANS" text="Cane and Bamboo have a very close and old relationship with mankind. Cane and bamboo craft is believed to be the oldest creation of man and is considered to be the oldest craft which was initiated in Goa region. These craftsmen mainly made cane items which were of use to fishermen during catching of fish and also fabricated a Dalli in which they could store the dry grains and other food items."/>
             <WorkItems link={'https://www.youtube.com/watch?v=mJChoEvx-mc&t=370s'} image={wp2} title="MINING DILEMMA" text="Mining activity has finally resumed in Goa's mining belt bringing much needed relief to thousands who are dependent on this activity. However, this environmentally destructive activity needs to be regulated to avoid past mistakes and it's smooth sailing. Need based & not greed based mining should be the mantra."/>
             <WorkItems link={'https://www.youtube.com/watch?v=EW_dqLHfgWY'} image={wp3} title="KAJUGOTTO" text=" Kajugotto is a totally self reliant village, hardly dependent on the outside world for any of its basic requirements.The nearest motorable road to Kajugotto is over 3 Km away.The nearest high school is 3.5 Km away. Children walk for nearly three hours (to and fro) everyday to reach the high school."/>

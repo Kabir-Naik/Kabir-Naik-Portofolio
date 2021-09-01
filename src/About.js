@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState, useEffect } from "react";
 import Footer from './Footer'
 import Navbar from './Navbar'
 import ka1 from "./Images/ka1.jpg"
@@ -8,7 +8,12 @@ import MFFilm from './MFFilm'
 import mid from "./Images/MINING_DILEMMA.png";
 import rend from "./Images/RENDER.png";
 import kaju from "./Images/POSTER 3.png";
+
+
+
+
 function About() {
+
     return (
         <div>
             <Navbar pc={true} />
@@ -45,6 +50,9 @@ function About() {
             <a href="mailto:thekabirnaik@gmail.com"><i class="fas ico fa-envelope px-3"></i></a>
             <a href="https://www.instagram.com/thekabirnaik/?hl=en"><i class="fab ico fa-instagram px-3"></i></a>
             <a href="https://www.youtube.com/channel/UClktIjGfK68l4GYgrY7ufFA"><i class="fab ico fa-youtube px-3"></i></a>
+            
+           
+
             <MFFilm img1={kaju} img2={mid} img3={rend} link1={'https://youtu.be/X9go1PyPSog'} link2={'https://youtu.be/mJChoEvx-mc'} link3={'https://youtu.be/qe8cant_b64'} />
 
             <Footer />

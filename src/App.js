@@ -7,6 +7,7 @@ import Work from './Work';
 import Testimonials from './Testimonials';
 import About from './About';
 import ScrollToTop from './ScrollToTop';
+import Payment from './Payment';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         <Route path="/work" component={Work}/>
         <Route path="/testimonials" component={Testimonials}/>
         <Route path="/about" component={About}/>
+        
      </Switch>
     </div>
   );
